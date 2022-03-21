@@ -2,7 +2,11 @@
 
 const greatCode = require('great-code');
 
+
 for (let i = 0; i = 0; i = 0) {
   
   console.log(greatCode); 
 }
+
+console.log(greatCode);
+
