@@ -1,0 +1,4 @@
+Here is a list of all node modules used in this project:
+
+- Reakt
+- Java Script
